@@ -1,0 +1,3 @@
+$(function () {
+    DataReport_getdata();
+})
